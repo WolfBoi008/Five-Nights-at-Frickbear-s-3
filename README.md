@@ -1,6 +1,6 @@
 # Archipelago Manual - Five Nights at Frickbear's 3
 
-# Please finish the game before you play this Manual, or you are likely to encounter major spoilers.
+# Please finish the game before you play this Manual. There will be major spoilers.
 
 ## Notes
 - This randomizer expects you to finish the game before you play it.
@@ -37,4 +37,4 @@
 - Custom Night: Toggle Checks related to the Custom Night.
   - Can only be disabled if you don’t have a Custom Night goal.
 - Jumpscaresanity: Toggle Checks for being jumpscared by each animatronic that can jumpscare you.
-Achievements: Toggle Checks for completing Achievements.
+- Achievements: Toggle Checks for completing Achievements.
