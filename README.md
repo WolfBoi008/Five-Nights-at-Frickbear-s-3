@@ -37,4 +37,4 @@
 - Custom Night: Toggle Checks related to the Custom Night.
   - Can only be disabled if you don’t have a Custom Night goal.
 - Jumpscaresanity: Toggle Checks for being jumpscared by each animatronic that can jumpscare you.
-Achievements: Toggle Checks for completing Achievements.
+- Achievements: Toggle Checks for completing Achievements.
