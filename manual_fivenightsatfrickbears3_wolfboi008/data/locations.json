@@ -1,0 +1,1139 @@
+[
+  {
+    "name": "Survive Night 1",
+    "region": "Night 1",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Withered Freddy",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Withered Bonnie",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Withered Chica",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Withered Foxy",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Golden Freddy",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Endo",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Chica's Feeding Frenzy Arcade Board",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Chica's Feeding Frenzy Present",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Freddy Mask",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": "|Progressive Present:1|"
+  },
+  {
+    "name": "Upgrade Cadet Story 1",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza",
+      "Upgrade Cadet Stories"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Hatchet",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Springtrap",
+    "region": "Salvage 1",
+    "category": [
+      "Freddy Fazbear's Pizza"
+    ],
+    "requires": "|Hatchet|"
+  },
+  {
+    "name": "Survive Night 2",
+    "region": "Night 2",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Toy Freddy",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Toy Bonnie",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Toy Chica",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Mangle",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect JJ",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect RWQFSFASXC",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Puppet Patrol Arcade Board",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Puppet Patrol Present",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Bonnie Mask",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": "|Progressive Present:2|"
+  },
+  {
+    "name": "Upgrade Cadet Story 2",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza",
+      "Upgrade Cadet Stories"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Parts and Service Key from BB",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Lefty",
+    "region": "Salvage 2",
+    "category": [
+      "New & Improved Freddy Fazbear's Pizza"
+    ],
+    "requires": "|Parts and Service Key|"
+  },
+  {
+    "name": "Survive Night 3",
+    "region": "Night 3",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Freddy Poster",
+    "comment": "Some horror attraction...Do they really think a flat, still image of Freddy is gonna scare anyone?",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Hare Pairs Arcade Board",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Hare Pairs Present",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Chica Mask",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": "|Progressive Present:3|"
+  },
+  {
+    "name": "Upgrade Cadet Story 3",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright",
+      "Upgrade Cadet Stories"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Dialpad Wall",
+    "comment": "Seriously, how did anyone figure this out back in the FNAF3 days???",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Shadow Freddy",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect The Phantoms",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Helpy",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Music Man",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Mr. Hippo",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Malhare",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Scrap Baby",
+    "region": "Salvage 3",
+    "category": [
+      "Fazbear's Fright"
+    ],
+    "requires": "|395248|"
+  },
+  {
+    "name": "Survive Night 4",
+    "region": "Night 4",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Pirate Plunder Arcade Board",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Pirate Plunder Present",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Foxy Mask",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": "|Progressive Present:4|"
+  },
+  {
+    "name": "Upgrade Cadet Story 4",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods",
+      "Upgrade Cadet Stories"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Locked Box",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Plushtrap",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Nightmare Fredbear",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Nightmare BB",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Nightmarionne",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Twisted Wolf",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Dreadbear",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Molten Freddy",
+    "region": "Salvage 4",
+    "category": [
+      "William's Woods"
+    ],
+    "requires": "|Locked Box Code|"
+  },
+  {
+    "name": "Survive Night 5",
+    "region": "Night 5",
+    "category": [
+      "Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goal (Night 5)",
+    "region": "Night 5",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Freddy Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Bonnie Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Chica Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Foxy Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Golden Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Golden Freddy|"
+  },
+  {
+    "name": "Survive a Night with Endo Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Endo|"
+  },
+  {
+    "name": "Survive a Night with Toy Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "Survive a Night with Toy Bonnie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Bonnie|"
+  },
+  {
+    "name": "Survive a Night with Toy Chica Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Chica|"
+  },
+  {
+    "name": "Survive a Night with Mangle Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Mangle|"
+  },
+  {
+    "name": "Survive a Night with Withered Freddy Active",
+    "comment": "WHY ARE YOU SO FUCKING QUIET OH MY GOD LEAVE ME THE FUCK ALONE PLEASE",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Withered Freddy|"
+  },
+  {
+    "name": "Survive a Night with Withered Bonnie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Withered Bonnie|"
+  },
+  {
+    "name": "Survive a Night with Withered Chica Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Withered Chica|"
+  },
+  {
+    "name": "Survive a Night with Withered Foxy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Withered Foxy|"
+  },
+  {
+    "name": "Survive a Night with BB Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR {YamlCompare(difficulty = 3)} OR |BB|"
+  },
+  {
+    "name": "Survive a Night with JJ Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|JJ|"
+  },
+  {
+    "name": "Survive a Night with Puppet Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Shadow Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Shadow Freddy|"
+  },
+  {
+    "name": "Survive a Night with RWQFSFASXC Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|RWQFSFASXC|"
+  },
+  {
+    "name": "Survive a Night with The Phantoms Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|The Phantoms|"
+  },
+  {
+    "name": "Survive a Night with Springtrap Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Springtrap|"
+  },
+  {
+    "name": "Survive a Night with Plushtrap Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Plushtrap|"
+  },
+  {
+    "name": "Survive a Night with Nightmare Fredbear Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Nightmare Fredbear|"
+  },
+  {
+    "name": "Survive a Night with Nightmare BB Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Nightmare BB|"
+  },
+  {
+    "name": "Survive a Night with Nightmarionne Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Nightmarionne|"
+  },
+  {
+    "name": "Survive a Night with Lolbit Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Lolbit|"
+  },
+  {
+    "name": "Survive a Night with Circus Baby Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Circus Baby|"
+  },
+  {
+    "name": "Survive a Night with Funtime Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Funtime Freddy|"
+  },
+  {
+    "name": "Survive a Night with Funtime Foxy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Funtime Foxy|"
+  },
+  {
+    "name": "Survive a Night with Ballora Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Ballora|"
+  },
+  {
+    "name": "Survive a Night with Helpy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Helpy|"
+  },
+  {
+    "name": "Survive a Night with Music Man Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Music Man|"
+  },
+  {
+    "name": "Survive a Night with Mr. Hippo Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Mr. Hippo|"
+  },
+  {
+    "name": "Survive a Night with Lefty Active",
+    "comment": "FUCK YOU I FUCKING HATE YOU LEAVE ME THE FUCK ALONE WITH YOUR VENTING BULLSHIT",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Lefty|"
+  },
+  {
+    "name": "Survive a Night with Molten Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Molten Freddy|"
+  },
+  {
+    "name": "Survive a Night with Scrap Baby Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Scrap Baby|"
+  },
+  {
+    "name": "Survive a Night with Twisted Wolf Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Twisted Wolf|"
+  },
+  {
+    "name": "Survive a Night with Malhare Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Malhare|"
+  },
+  {
+    "name": "Survive a Night with Dreadbear Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Dreadbear|"
+  },
+  {
+    "name": "Survive a Night with LolzHax Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|LolzHax|"
+  },
+  {
+    "name": "Survive a Night with Coffee Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Coffee|"
+  },
+  {
+    "name": "Survive a Night with Animdude Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Animdude|"
+  },
+  {
+    "name": "Survive a Night with Chipper Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Chipper| AND |Lumber|"
+  },
+  {
+    "name": "Survive a Night with Sparky Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Sparky|"
+  },
+  {
+    "name": "Survive a Night with Candy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Candy|"
+  },
+  {
+    "name": "Survive a Night with Popgoes Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Popgoes|"
+  },
+  {
+    "name": "Survive a Night with Rodney Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Rodney|"
+  },
+  {
+    "name": "Freddy Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bonnie Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chica Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Foxy Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Golden Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Golden Freddy|"
+  },
+  {
+    "name": "Endo Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Endo|"
+  },
+  {
+    "name": "Toy Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "Toy Bonnie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Bonnie|"
+  },
+  {
+    "name": "Toy Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Chica|"
+  },
+  {
+    "name": "Mangle Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mangle|"
+  },
+  {
+    "name": "Withered Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Freddy|"
+  },
+  {
+    "name": "Withered Bonnie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Bonnie|"
+  },
+  {
+    "name": "Withered Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Chica|"
+  },
+  {
+    "name": "Withered Foxy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Foxy|"
+  },
+  {
+    "name": "BB Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR {YamlCompare(difficulty = 3)} OR |BB|"
+  },
+  {
+    "name": "Puppet Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "RWQFSFASXC Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|RWQFSFASXC|"
+  },
+  {
+    "name": "The Phantoms Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Phantoms|"
+  },
+  {
+    "name": "Springtrap Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Springtrap|"
+  },
+  {
+    "name": "Plushtrap Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Plushtrap|"
+  },
+  {
+    "name": "Nightmare Fredbear Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Nightmare Fredbear|"
+  },
+  {
+    "name": "Nightmare BB Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Nightmare BB|"
+  },
+  {
+    "name": "Nightmarionne Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Nightmarionne|"
+  },
+  {
+    "name": "Circus Baby Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Circus Baby|"
+  },
+  {
+    "name": "Funtime Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Funtime Freddy|"
+  },
+  {
+    "name": "Funtime Foxy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Funtime Foxy|"
+  },
+  {
+    "name": "Ballora Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ballora|"
+  },
+  {
+    "name": "Lefty Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Lefty|"
+  },
+  {
+    "name": "Molten Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Molten Freddy|"
+  },
+  {
+    "name": "Scrap Baby Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Scrap Baby|"
+  },
+  {
+    "name": "Twisted Wolf Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Twisted Wolf|"
+  },
+  {
+    "name": "Dreadbear Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Dreadbear|"
+  },
+  {
+    "name": "Animdude Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Animdude|"
+  },
+  {
+    "name": "Chipper Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Chipper|"
+  },
+  {
+    "name": "Sparky Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Sparky|"
+  },
+  {
+    "name": "Candy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Candy|"
+  },
+  {
+    "name": "Popgoes Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Popgoes|"
+  },
+  {
+    "name": "Felix Jumpscare",
+    "region": "Night 2",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Felix's Loan:1|"
+  },
+  {
+    "name": "Funtime Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|King's Prize:1|"
+  }
+]

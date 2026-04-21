@@ -1,0 +1,95 @@
+{
+  "Night 1": {
+    "starting": true,
+    "connects_to": [
+      "Salvage 1"
+    ],
+    "requires": []
+  },
+  "Salvage 1": {
+    "connects_to": [
+      "Night 2"
+    ],
+    "requires": []
+  },
+  "Night 2": {
+    "connects_to": [
+      "Salvage 2"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4|)"
+  },
+  "Salvage 2": {
+    "connects_to": [
+      "Night 3"
+    ],
+    "requires": []
+  },
+  "Night 3": {
+    "connects_to": [
+      "Salvage 3"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4|)"
+  },
+  "Salvage 3": {
+    "connects_to": [
+      "Night 4"
+    ],
+    "requires": []
+  },
+  "Night 4": {
+    "connects_to": [
+      "Salvage 4"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4|)"
+  },
+  "Salvage 4": {
+    "connects_to": [
+      "Night 5"
+    ],
+    "requires": []
+  },
+  "Night 5": {
+    "connects_to": [
+      "Salvage 5",
+      "Evil Route Finale",
+      "Good Route Finale",
+      "Ultimate Route Finale"
+    ],
+    "requires": "({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4|)"
+  },
+  "Salvage 5": {
+    "connects_to": [
+      "Money Route Finale"
+    ],
+    "requires": "|Talbert's Files|"
+  },
+  "Money Route Finale": {
+    "connects_to": [
+      "Custom Night"
+    ],
+    "requires": []
+  },
+  "Evil Route Finale": {
+    "connects_to": [
+      "Custom Night"
+    ],
+    "requires": []
+  },
+  "Good Route Finale": {
+    "connects_to": [
+      "Custom Night"
+    ],
+    "requires": []
+  },
+  "Ultimate Route Finale": {
+    "connects_to": [
+      "Custom Night"
+    ],
+    "requires": []
+  },
+  "Custom Night": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  }
+}

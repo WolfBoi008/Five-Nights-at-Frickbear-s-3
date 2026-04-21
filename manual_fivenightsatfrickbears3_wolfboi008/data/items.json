@@ -1,0 +1,731 @@
+[
+  {
+    "count": "1",
+    "name": "Golden Freddy",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Endo",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Toy Freddy",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Toy Bonnie",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Toy Chica",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mangle",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Freddy",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Bonnie",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Chica",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Foxy",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "BB",
+    "category": [
+      "Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "JJ",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Shadow Freddy",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "RWQFSFASXC",
+    "category": [
+      "Animatronics",
+      "New & Improved Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Phantoms",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Springtrap",
+    "category": [
+      "Animatronics",
+      "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Plushtrap",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Nightmare Fredbear",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Nightmare BB",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Nightmarionne",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lolbit",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Circus Baby",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Funtime Freddy",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Funtime Foxy",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ballora",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Helpy",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Music Man",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mr. Hippo",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lefty",
+    "category": [
+      "Animatronics",
+      "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Molten Freddy",
+    "category": [
+      "Animatronics",
+      "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Scrap Baby",
+    "category": [
+      "Animatronics",
+      "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Twisted Wolf",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Malhare",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Dreadbear",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "LolzHax",
+    "category": [
+      "Animatronics",
+      "Sister Location Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Coffee",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Animdude",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Chipper",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Sparky",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Candy",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Popgoes",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Rodney",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Present",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Freddy Mask",
+    "category": [
+      "Masks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonnie Mask",
+    "category": [
+      "Masks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chica Mask",
+    "category": [
+      "Masks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Foxy Mask",
+    "category": [
+      "Masks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hatchet",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Parts and Service Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "395248",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Locked Box Code",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Backdoor Trading",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Mini Multiplier",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Cam Radar",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Felix's Loan",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Superfan",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Early Investment",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Power AC",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive All Ears",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Head Start",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Employee Discount",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Bear Change",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Overcharge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Power Hour",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fuzzy Dice",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Upgrade Commander",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Overstock",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Retina Burner",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Spawnkiller",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Talbert's Files",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cupcake Cartridge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Animdude Cartridge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mangle Cartridge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mimic Ball",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 5,
+    "name": "King's Prize",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Rewind Clock",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Battery Pack",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Snowcone",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Golden Cupcake",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "AR Mask",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Laser Doors",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beartrap",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Death Coin",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Distortion Clock",
+    "category": [
+      "Shop"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pickles",
+    "category": [
+      "Shop"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lumber",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  }
+]

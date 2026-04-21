@@ -1,0 +1,29 @@
+{
+    "Freddy Fazbear's Pizza Animatronics": {
+        "hidden": true
+    },
+    "New & Improved Freddy Fazbear's Pizza Animatronics": {
+        "hidden": true
+    },
+    "Fazbear's Fright Animatronics": {
+        "hidden": true
+    },
+    "William's Woods Animatronics": {
+        "hidden": true
+    },
+    "Circus Baby's Entertainment and Rentals Animatronics": {
+        "hidden": true
+    },
+    "Extra Animatronics": {
+        "hidden": true
+    },
+    "Evil Route Animatronics": {
+        "hidden": true
+    },
+    "Jumpscaresanity": {
+        "yaml_option": ["jumpscaresanity"]
+    },
+    "Upgrade Cadet Stories": {
+        "yaml_option": ["stories"]
+    }
+}
