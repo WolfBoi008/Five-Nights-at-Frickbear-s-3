@@ -16,7 +16,7 @@
     "connects_to": [
       "Salvage 2"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4|)"
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 1)}} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 2)} AND |Hatchet| AND |Springtrap|) OR ({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 1)} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 2)} AND |Hatchet| AND |Springtrap|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 1)} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 2)} AND |Hatchet| AND |Springtrap|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 1)} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 2)} AND |Hatchet| AND |Springtrap|) OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 3)} AND |@Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|)"
   },
   "Salvage 2": {
     "connects_to": [
@@ -28,7 +28,7 @@
     "connects_to": [
       "Salvage 3"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4|)"
+    "requires": "({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 1)} AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 2)} AND |Parts and Service Key| AND |Lefty|) OR ({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 0)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:1| AND {YamlCompare(goal = 4)} AND |Parts and Service Key| AND |Lefty| AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 1)} AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 2)} AND |Parts and Service Key| AND |Lefty|) OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 1)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:2| AND {YamlCompare(goal = 4)} AND |Parts and Service Key| AND |Lefty| AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 1)} AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 2)} AND |Parts and Service Key| AND |Lefty|) OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 2)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:3| AND {YamlCompare(goal = 4)} AND |Parts and Service Key| AND |Lefty| AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 1)} AND |Progressive Present:2| AND |Bonnie Mask|) OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 2)} AND |Parts and Service Key| AND |Lefty|) OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 3)} AND |@New & Improved Freddy Fazbear's Pizza Animatronics:4| AND {YamlCompare(goal = 4)} AND |Parts and Service Key| AND |Lefty| AND |Progressive Present:2| AND |Bonnie Mask|)"
   },
   "Salvage 3": {
     "connects_to": [
@@ -40,7 +40,7 @@
     "connects_to": [
       "Salvage 4"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4|)"
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1| AND {YamlCompare(goal = 1)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1| AND {YamlCompare(goal = 2)} AND |395248| AND |Scrap Baby|) OR ({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1| AND {YamlCompare(goal = 4)} AND |395248| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2| AND {YamlCompare(goal = 1)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2| AND {YamlCompare(goal = 2)} AND |395248| AND |Scrap Baby|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2| AND {YamlCompare(goal = 4)} AND |395248| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3| AND {YamlCompare(goal = 1)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3| AND {YamlCompare(goal = 2)} AND |395248| AND |Scrap Baby|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3| AND {YamlCompare(goal = 4)} AND |395248| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4| AND {YamlCompare(goal = 1)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4| AND {YamlCompare(goal = 2)} AND |395248| AND |Scrap Baby|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4| AND {YamlCompare(goal = 4)} AND |395248| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|)"
   },
   "Salvage 4": {
     "connects_to": [
@@ -51,40 +51,24 @@
   "Night 5": {
     "connects_to": [
       "Salvage 5",
-      "Evil Route Finale",
-      "Good Route Finale",
-      "Ultimate Route Finale"
+      "Night 6"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4|)"
+    "requires": "({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1| AND {YamlCompare(goal = 1)} AND |Progressive Present:4| AND |Foxy Mask|) OR ({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1| AND {YamlCompare(goal = 2)} AND |Locked Box Code| AND |Molten Freddy|) OR ({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 0)} AND |@William's Woods Animatronics:1| AND {YamlCompare(goal = 4)} AND |Locked Box Code| AND |Molten Freddy| AND |Progressive Present:4| AND |Foxy Mask| AND |Talbert's Files|) OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2| AND {YamlCompare(goal = 1)} AND |Progressive Present:4| AND |Foxy Mask|) OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2| AND {YamlCompare(goal = 2)} AND |Locked Box Code| AND |Molten Freddy|) OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 1)} AND |@William's Woods Animatronics:2| AND {YamlCompare(goal = 4)} AND |Locked Box Code| AND |Molten Freddy| AND |Progressive Present:4| AND |Foxy Mask| AND |Talbert's Files|) OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3| AND {YamlCompare(goal = 1)} AND |Progressive Present:4| AND |Foxy Mask|) OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3| AND {YamlCompare(goal = 2)} AND |Locked Box Code| AND |Molten Freddy|) OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 2)} AND |@William's Woods Animatronics:3| AND {YamlCompare(goal = 4)} AND |Locked Box Code| AND |Molten Freddy| AND |Progressive Present:4| AND |Foxy Mask| AND |Talbert's Files|) OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4| AND {YamlCompare(goal = 0)} OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4| AND {YamlCompare(goal = 1)} AND |Progressive Present:4| AND |Foxy Mask|) OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4| AND {YamlCompare(goal = 2)} AND |Locked Box Code| AND |Molten Freddy|) OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4| AND {YamlCompare(goal = 3)} OR ({YamlCompare(difficulty = 3)} AND |@William's Woods Animatronics:4| AND {YamlCompare(goal = 4)} AND |Locked Box Code| AND |Molten Freddy| AND |Progressive Present:4| AND |Foxy Mask| AND |Talbert's Files|)"
   },
   "Salvage 5": {
     "connects_to": [
-      "Money Route Finale"
+      "Salvage 5 Done"
     ],
     "requires": "|Talbert's Files|"
   },
-  "Money Route Finale": {
+  "Salvage 5 Done": {
     "connects_to": [
-      "Custom Night"
+      "Night 6"
     ],
-    "requires": []
+    "requires": "({YamlCompare(difficulty = 0)} AND |@Circus Baby's Entertainment & Rentals Animatronics:1| AND {YamlCompare(goal = 3)}) OR ({YamlCompare(difficulty = 1)} AND |@Circus Baby's Entertainment & Rentals Animatronics:2| AND {YamlCompare(goal = 3)}) OR ({YamlCompare(difficulty = 2)} AND |@Circus Baby's Entertainment & Rentals Animatronics:3| AND {YamlCompare(goal = 3)}) OR ({YamlCompare(difficulty = 3)} AND |@Circus Baby's Entertainment & Rentals Animatronics:4| AND {YamlCompare(goal = 3)})"
   },
-  "Evil Route Finale": {
-    "connects_to": [
-      "Custom Night"
-    ],
-    "requires": []
-  },
-  "Good Route Finale": {
-    "connects_to": [
-      "Custom Night"
-    ],
-    "requires": []
-  },
-  "Ultimate Route Finale": {
-    "connects_to": [
-      "Custom Night"
-    ],
+  "Night 6": {
+    "connects_to": [],
     "requires": []
   },
   "Custom Night": {

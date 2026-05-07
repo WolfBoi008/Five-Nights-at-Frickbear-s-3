@@ -11,6 +11,10 @@
     "William's Woods Animatronics": {
         "hidden": true
     },
+    "Salvage 5": {
+        "yaml_option": ["salvage_5"],
+        "hidden": true
+    },
     "Circus Baby's Entertainment and Rentals Animatronics": {
         "hidden": true
     },

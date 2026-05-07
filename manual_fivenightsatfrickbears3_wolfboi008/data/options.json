@@ -7,7 +7,9 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
+            "description": [
+                "Choose the ending for your run."
+            ],
             "aliases": {"easiest": 0},
             "hidden": false
         },

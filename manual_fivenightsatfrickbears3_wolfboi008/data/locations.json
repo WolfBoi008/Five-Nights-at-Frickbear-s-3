@@ -438,13 +438,103 @@
     "requires": []
   },
   {
-    "name": "Goal (Night 5)",
+    "name": "Inspect Lolbit",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Lolzhax",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+      ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Funtime Freddy",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+      ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Funtime Foxy",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+      ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Ballora",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+      ],
+    "requires": []
+  },
+  {
+    "name": "Inspect Circus Baby",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+      ],
+    "requires": []
+  },
+  {
+    "name": "Slacker Route Ending",
     "region": "Night 5",
-    "victory": true,
     "category": [
       "Goal"
     ],
-    "requires": []
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "Evil Route Ending",
+    "region": "Night 6",
+    "category": [
+      "Goal"
+    ],
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "Money Route Ending",
+    "region": "Night 6",
+    "category": [
+      "Goal"
+    ],
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "Good Route Ending",
+    "region": "Night 6",
+    "category": [
+      "Goal"
+    ],
+    "requires": [],
+    "victory": true
+  },
+  {
+    "name": "Ultimate Route Ending",
+    "region": "Night 6",
+    "category": [
+      "Goal"
+    ],
+    "requires": [],
+    "victory": true
   },
   {
     "name": "Survive a Night with Freddy Active",
