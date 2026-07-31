@@ -655,7 +655,7 @@
     "category": [
       "Animatronics"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR {YamlCompare(difficulty = 3)} OR |BB|"
+    "requires": "((({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) AND ({YamlCompare(goal = 0)} OR ({YamlCompare(goal = 1)} AND |Hatchet| AND |Springtrap|) OR {YamlCompare(goal = 2)} OR ({YamlCompare(goal = 3)} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|))) OR {YamlCompare(difficulty = 3)} OR |BB|"
   },
   {
     "name": "Survive a Night with JJ Active",
@@ -1032,7 +1032,7 @@
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) OR {YamlCompare(difficulty = 3)} OR |BB|"
+    "requires": "{YamlCompare(difficulty = 3)} OR |BB|"
   },
   {
     "name": "Puppet Jumpscare",
