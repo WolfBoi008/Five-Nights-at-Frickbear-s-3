@@ -46,10 +46,23 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
+    # If your Goal is Slacker Ending, disable Evil and Good Ending Items and Checks.
+    if world.options.goal.value == 0:
+        world.options.evil.value = False
+        world.options.good.value = False
+    # If your Goal is Evil Ending, disable Good Ending Items and Checks.
+    if world.options.goal.value == 1:
+        world.options.good.value = False
+    # If your Goal is Money Ending, enable the 5th Salvage location and disable Evil and Good Ending Items and Checks. Otherwise, disable the 5th Salvage location and leave the other Endings' Checks alone (because other parts of this hook control them).
     if world.options.goal.value == 2:
         world.options.salvage_5.value = True
+        world.options.evil.value = False
+        world.options.good.value = False
     else:
         world.options.salvage_5.value = False
+    # If your Goal is Good Ending, disable Evil Ending Items and Checks.
+    if world.options.goal.value == 3:
+        world.options.evil.value = False
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.

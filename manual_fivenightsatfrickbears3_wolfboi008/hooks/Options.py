@@ -46,6 +46,8 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     # options.type_hints['goal'].aliases.update({"example": 0, "second_alias": 1})
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
     options.type_hints["salvage_5"].visibility = Visibility.none
+    options.type_hints["evil"].visibility = Visibility.none
+    options.type_hints["good"].visibility = Visibility.none
     pass
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)

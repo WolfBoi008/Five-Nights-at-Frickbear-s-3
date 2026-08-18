@@ -75,7 +75,8 @@
     "name": "Collect Freddy Mask",
     "region": "Salvage 1",
     "category": [
-      "Freddy Fazbear's Pizza"
+      "Freddy Fazbear's Pizza",
+      "Good Ending"
     ],
     "requires": "|Progressive Present:1|"
   },
@@ -100,7 +101,8 @@
     "name": "Inspect Springtrap",
     "region": "Salvage 1",
     "category": [
-      "Freddy Fazbear's Pizza"
+      "Freddy Fazbear's Pizza",
+      "Evil Ending"
     ],
     "requires": "|Hatchet|"
   },
@@ -180,7 +182,8 @@
     "name": "Collect Bonnie Mask",
     "region": "Salvage 2",
     "category": [
-      "New & Improved Freddy Fazbear's Pizza"
+      "New & Improved Freddy Fazbear's Pizza",
+      "Good Ending"
     ],
     "requires": "|Progressive Present:2|"
   },
@@ -205,7 +208,8 @@
     "name": "Inspect Lefty",
     "region": "Salvage 2",
     "category": [
-      "New & Improved Freddy Fazbear's Pizza"
+      "New & Improved Freddy Fazbear's Pizza",
+      "Evil Ending"
     ],
     "requires": "|Parts and Service Key|"
   },
@@ -246,7 +250,8 @@
     "name": "Collect Chica Mask",
     "region": "Salvage 3",
     "category": [
-      "Fazbear's Fright"
+      "Fazbear's Fright",
+      "Good Ending"
     ],
     "requires": "|Progressive Present:3|"
   },
@@ -320,9 +325,10 @@
     "name": "Inspect Scrap Baby",
     "region": "Salvage 3",
     "category": [
-      "Fazbear's Fright"
+      "Fazbear's Fright",
+      "Evil Ending"
     ],
-    "requires": "|395248|"
+    "requires": "|Wall Code|"
   },
   {
     "name": "Survive Night 4",
@@ -352,7 +358,8 @@
     "name": "Collect Foxy Mask",
     "region": "Salvage 4",
     "category": [
-      "William's Woods"
+      "William's Woods",
+      "Good Ending"
     ],
     "requires": "|Progressive Present:4|"
   },
@@ -425,7 +432,8 @@
     "name": "Inspect Molten Freddy",
     "region": "Salvage 4",
     "category": [
-      "William's Woods"
+      "William's Woods",
+      "Evil Ending"
     ],
     "requires": "|Locked Box Code|"
   },

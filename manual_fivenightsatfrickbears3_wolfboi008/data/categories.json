@@ -29,5 +29,13 @@
     },
     "Upgrade Cadet Stories": {
         "yaml_option": ["stories"]
+    },
+    "Evil Ending": {
+        "yaml_option": ["evil"],
+        "hidden": true
+    },
+    "Good Ending": {
+        "yaml_option": ["good"],
+        "hidden": true
     }
 }

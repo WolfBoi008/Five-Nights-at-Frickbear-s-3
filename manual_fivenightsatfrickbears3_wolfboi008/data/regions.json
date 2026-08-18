@@ -40,7 +40,7 @@
     "connects_to": [
       "Salvage 4"
     ],
-    "requires": "(({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4|)) AND ({YamlCompare(goal = 0)} OR ({YamlCompare(goal = 1)} AND |395248| AND |Scrap Baby|) OR {YamlCompare(goal = 2)} OR ({YamlCompare(goal = 3)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(goal = 4)} AND |395248| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|))"
+    "requires": "(({YamlCompare(difficulty = 0)} AND |@Fazbear's Fright Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Fazbear's Fright Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Fazbear's Fright Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Fazbear's Fright Animatronics:4|)) AND ({YamlCompare(goal = 0)} OR ({YamlCompare(goal = 1)} AND |Wall Code| AND |Scrap Baby|) OR {YamlCompare(goal = 2)} OR ({YamlCompare(goal = 3)} AND |Progressive Present:3| AND |Chica Mask|) OR ({YamlCompare(goal = 4)} AND |Wall Code| AND |Scrap Baby| AND |Progressive Present:3| AND |Chica Mask|))"
   },
   "Salvage 4": {
     "connects_to": [
