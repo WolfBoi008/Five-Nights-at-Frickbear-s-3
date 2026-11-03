@@ -1,5 +1,37 @@
 [
   {
+    "count": 1,
+    "name": "Freddy",
+    "category": [
+      "Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonnie",
+    "category": [
+      "Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chica",
+    "category": [
+      "Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Foxy",
+    "category": [
+      "Animatronics"
+    ],
+    "progression": true
+  },
+  {
     "count": "1",
     "name": "Golden Freddy",
     "category": [
@@ -11,6 +43,42 @@
   {
     "count": "1",
     "name": "Endo",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Freddy",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Bonnie",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Chica",
+    "category": [
+      "Animatronics",
+      "Freddy Fazbear's Pizza Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Withered Foxy",
     "category": [
       "Animatronics",
       "Freddy Fazbear's Pizza Animatronics"
@@ -54,38 +122,10 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Withered Freddy",
+    "count": 1,
+    "name": "Marionette",
     "category": [
-      "Animatronics",
-      "Freddy Fazbear's Pizza Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Withered Bonnie",
-    "category": [
-      "Animatronics",
-      "Freddy Fazbear's Pizza Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Withered Chica",
-    "category": [
-      "Animatronics",
-      "Freddy Fazbear's Pizza Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Withered Foxy",
-    "category": [
-      "Animatronics",
-      "Freddy Fazbear's Pizza Animatronics"
+      "Animatronics"
     ],
     "progression": true
   },
@@ -161,6 +201,33 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Jack-O-Bonnie",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jack-O-Chica",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nightmare Mangle",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
     "count": "1",
     "name": "Nightmare BB",
     "category": [
@@ -179,11 +246,20 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Lolbit",
+    "count": 1,
+    "name": "Deedee",
     "category": [
       "Animatronics",
-      "Circus Baby's Entertainment & Rentals Animatronics"
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chica's Magic Rainbow",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
     ],
     "progression": true
   },
@@ -224,6 +300,60 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Ennard",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vlad & Clara",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yenndo",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonnet",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Lolbit",
+    "category": [
+      "Animatronics",
+      "Circus Baby's Entertainment & Rentals Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Electrobab",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
     "count": "1",
     "name": "Helpy",
     "category": [
@@ -234,37 +364,19 @@
   },
   {
     "count": "1",
-    "name": "Music Man",
-    "category": [
-      "Animatronics",
-      "Fazbear's Fright Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Mr. Hippo",
-    "category": [
-      "Animatronics",
-      "Fazbear's Fright Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Lefty",
-    "category": [
-      "Animatronics",
-      "Evil Route Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
     "name": "Molten Freddy",
     "category": [
       "Animatronics",
       "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scraptrap",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
     ],
     "progression": true
   },
@@ -279,10 +391,82 @@
   },
   {
     "count": "1",
-    "name": "Twisted Wolf",
+    "name": "Lefty",
     "category": [
       "Animatronics",
-      "William's Woods Animatronics"
+      "Evil Route Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Happy Frog",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Mr. Hippo",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pigpatch",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nedd Bear",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Orville",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trash Gang",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mr. Hugs",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Music Man",
+    "category": [
+      "Animatronics",
+      "Fazbear's Fright Animatronics"
     ],
     "progression": true
   },
@@ -305,11 +489,236 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Grimm Foxy",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glamrock Freddy",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Roxanne Wolf",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Montgomery Gator",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glamrock Chica",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sun & Moon",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M.X.E.S.",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Mimic",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jackie",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Top",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Cobalt",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "White Tiger",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sleepy Moon",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Security",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
     "count": "1",
     "name": "LolzHax",
     "category": [
       "Animatronics",
       "Circus Baby's Entertainment & Rentals Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Freddy Frostbear",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Twisted Wolf",
+    "category": [
+      "Animatronics",
+      "William's Woods Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spring-Bonnie?",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Very Important Pig",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Reagent",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Candy",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blank",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ignited Freddy",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Popgoes",
+    "category": [
+      "Animatronics",
+      "Extra Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Archie",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doofas",
+    "category": [
+      "Animatronics",
+      "Four Layers Down Animatronics"
     ],
     "progression": true
   },
@@ -350,20 +759,11 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Candy",
+    "count": 1,
+    "name": "Bon",
     "category": [
       "Animatronics",
-      "Extra Animatronics"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Popgoes",
-    "category": [
-      "Animatronics",
-      "Extra Animatronics"
+      "Four Layers Down Animatronics"
     ],
     "progression": true
   },
@@ -457,16 +857,40 @@
     "progression": true
   },
   {
-    "count": 3,
-    "name": "Progressive Backdoor Trading",
+    "count": 2,
+    "name": "Progressive Overcharge",
     "category": [
       "Upgrades"
     ],
-    "progression": true
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Power Hour",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
   },
   {
     "count": 3,
     "name": "Progressive Mini Multiplier",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Employee Discount",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Backdoor Trading",
     "category": [
       "Upgrades"
     ],
@@ -481,48 +905,8 @@
     "useful": true
   },
   {
-    "count": 3,
-    "name": "Progressive Felix's Loan",
-    "category": [
-      "Upgrades"
-    ],
-    "progression": true
-  },
-  {
     "count": 2,
     "name": "Progressive Superfan",
-    "category": [
-      "Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 3,
-    "name": "Progressive Early Investment",
-    "category": [
-      "Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Tasty Investment",
-    "category": [
-      "Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 2,
-    "name": "Progressive Power AC",
-    "category": [
-      "Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 2,
-    "name": "Progressive All Ears",
     "category": [
       "Upgrades"
     ],
@@ -546,23 +930,15 @@
   },
   {
     "count": 2,
-    "name": "Progressive Employee Discount",
+    "name": "Progressive Overstock",
     "category": [
       "Upgrades"
     ],
     "useful": true
   },
   {
-    "count": 2,
-    "name": "Progressive Bear Change",
-    "category": [
-      "Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 2,
-    "name": "Progressive Overcharge",
+    "count": 3,
+    "name": "Progressive Early Investment",
     "category": [
       "Upgrades"
     ],
@@ -570,7 +946,39 @@
   },
   {
     "count": 1,
-    "name": "Power Hour",
+    "name": "Tasty Investment",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Felix's Loan",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mangle Cartridge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cupcake Cartridge",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Animdude Cartridge",
     "category": [
       "Upgrades"
     ],
@@ -594,7 +1002,23 @@
   },
   {
     "count": 2,
-    "name": "Progressive Overstock",
+    "name": "Progressive Power AC",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Bear Change",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive All Ears",
     "category": [
       "Upgrades"
     ],
@@ -625,8 +1049,8 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Cupcake Cartridge",
+    "count": 2,
+    "name": "Progressive Crud-2-Cash",
     "category": [
       "Upgrades"
     ],
@@ -634,7 +1058,15 @@
   },
   {
     "count": 1,
-    "name": "Animdude Cartridge",
+    "name": "New Bulbs",
+    "category": [
+      "Upgrades"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Elongator",
     "category": [
       "Upgrades"
     ],
@@ -642,7 +1074,87 @@
   },
   {
     "count": 1,
-    "name": "Mangle Cartridge",
+    "name": "Children's Drawings",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Midas Touch",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Supply Closet",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Block1",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive FredTV",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Improved Insulation",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flashcart",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Lockdown Protocol",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Surround Sound",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "R.A.S.C.",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Mini-Reaper",
     "category": [
       "Upgrades"
     ],

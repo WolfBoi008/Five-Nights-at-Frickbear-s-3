@@ -3,6 +3,8 @@
   "game": "FiveNightsatFrickbears3",
   "creator": "WolfBoi008",
   "filler_item_name": "Tokens",
-  "starting_items": [],
+  "starting_items": [
+    {"items": ["Freddy", "Bonnie", "Chica", "Foxy", "Marionette"]}
+  ],
   "death_link": true
 }

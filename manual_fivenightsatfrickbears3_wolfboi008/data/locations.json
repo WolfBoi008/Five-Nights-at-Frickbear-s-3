@@ -593,38 +593,6 @@
     "requires": "|Endo|"
   },
   {
-    "name": "Survive a Night with Toy Freddy Active",
-    "region": "Custom Night",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": "|Toy Freddy|"
-  },
-  {
-    "name": "Survive a Night with Toy Bonnie Active",
-    "region": "Custom Night",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": "|Toy Bonnie|"
-  },
-  {
-    "name": "Survive a Night with Toy Chica Active",
-    "region": "Custom Night",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": "|Toy Chica|"
-  },
-  {
-    "name": "Survive a Night with Mangle Active",
-    "region": "Custom Night",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": "|Mangle|"
-  },
-  {
     "name": "Survive a Night with Withered Freddy Active",
     "comment": "WHY ARE YOU SO FUCKING QUIET OH MY GOD LEAVE ME THE FUCK ALONE PLEASE",
     "region": "Custom Night",
@@ -658,6 +626,46 @@
     "requires": "|Withered Foxy|"
   },
   {
+    "name": "Survive a Night with Toy Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "Survive a Night with Toy Bonnie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Bonnie|"
+  },
+  {
+    "name": "Survive a Night with Toy Chica Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Toy Chica|"
+  },
+  {
+    "name": "Survive a Night with Mangle Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Mangle|"
+  },
+  {
+    "name": "Survive a Night with Marionette Active",
+    "region": "Night 1",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": []
+  },
+  {
     "name": "Survive a Night with BB Active",
     "region": "Custom Night",
     "category": [
@@ -672,14 +680,6 @@
       "Animatronics"
     ],
     "requires": "|JJ|"
-  },
-  {
-    "name": "Survive a Night with Puppet Active",
-    "region": "Night 1",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": []
   },
   {
     "name": "Survive a Night with Shadow Freddy Active",
@@ -730,6 +730,30 @@
     "requires": "|Nightmare Fredbear|"
   },
   {
+    "name": "Survive a Night with Jack-O-Bonnie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Jack-O-Bonnie|"
+  },
+  {
+    "name": "Survive a Night with Jack-O-Chica Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Jack-O-Chica|"
+  },
+  {
+    "name": "Survive a Night with Nightmare Mangle Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Nightmare Mangle|"
+  },
+  {
     "name": "Survive a Night with Nightmare BB Active",
     "region": "Custom Night",
     "category": [
@@ -746,12 +770,20 @@
     "requires": "|Nightmarionne|"
   },
   {
-    "name": "Survive a Night with Lolbit Active",
+    "name": "Survive a Night with Deedee Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Lolbit|"
+    "requires": "|Deedee|"
+  },
+  {
+    "name": "Survive a Night with Chica's Magic Rainbow Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Chica's Magic Rainbow|"
   },
   {
     "name": "Survive a Night with Circus Baby Active",
@@ -786,6 +818,54 @@
     "requires": "|Ballora|"
   },
   {
+    "name": "Survive a Night with Ennard Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Ennard|"
+  },
+  {
+    "name": "Survive a Night with Vlad & Clara Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Vlad & Clara|"
+  },
+  {
+    "name": "Survive a Night with Yenndo Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Yenndo|"
+  },
+  {
+    "name": "Survive a Night with Bonnet Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Bonnet|"
+  },
+  {
+    "name": "Survive a Night with Lolbit Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Lolbit|"
+  },
+  {
+    "name": "Survive a Night with Electrobab Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Electrobab|"
+  },
+  {
     "name": "Survive a Night with Helpy Active",
     "region": "Custom Night",
     "category": [
@@ -794,20 +874,28 @@
     "requires": "|Helpy|"
   },
   {
-    "name": "Survive a Night with Music Man Active",
+    "name": "Survive a Night with Molten Freddy Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Music Man|"
+    "requires": "|Molten Freddy|"
   },
   {
-    "name": "Survive a Night with Mr. Hippo Active",
+    "name": "Survive a Night with Scraptrap Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Mr. Hippo|"
+    "requires": "|Scraptrap|"
+  },
+  {
+    "name": "Survive a Night with Scrap Baby Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Scrap Baby|"
   },
   {
     "name": "Survive a Night with Lefty Active",
@@ -819,28 +907,68 @@
     "requires": "|Lefty|"
   },
   {
-    "name": "Survive a Night with Molten Freddy Active",
+    "name": "Survive a Night with Happy Frog Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Molten Freddy|"
+    "requires": "|Happy Frog|"
   },
   {
-    "name": "Survive a Night with Scrap Baby Active",
+    "name": "Survive a Night with Mr. Hippo Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Scrap Baby|"
+    "requires": "|Mr. Hippo|"
   },
   {
-    "name": "Survive a Night with Twisted Wolf Active",
+    "name": "Survive a Night with Pigpatch Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Twisted Wolf|"
+    "requires": "|Pigpatch|"
+  },
+  {
+    "name": "Survive a Night with Nedd Bear Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Nedd Bear|"
+  },
+  {
+    "name": "Survive a Night with Orville Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Orville|"
+  },
+  {
+    "name": "Survive a Night with Trash Gang Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Trash Gang|"
+  },
+  {
+    "name": "Survive a Night with Mr. Hugs Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Mr. Hugs|"
+  },
+  {
+    "name": "Survive a Night with Music Man Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Music Man|"
   },
   {
     "name": "Survive a Night with Malhare Active",
@@ -859,12 +987,212 @@
     "requires": "|Dreadbear|"
   },
   {
+    "name": "Survive a Night with Grimm Foxy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Grimm Foxy|"
+  },
+  {
+    "name": "Survive a Night with Glamrock Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Glamrock Freddy|"
+  },
+  {
+    "name": "Survive a Night with Roxanne Wolf Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Roxanne Wolf|"
+  },
+  {
+    "name": "Survive a Night with Montgomery Gator Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Montgomery Gator|"
+  },
+  {
+    "name": "Survive a Night with Glamrock Chica Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Glamrock Chica|"
+  },
+  {
+    "name": "Survive a Night with Sun & Moon Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Sun & Moon|"
+  },
+  {
+    "name": "Survive a Night with M.X.E.S. Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|M.X.E.S.|"
+  },
+  {
+    "name": "Survive a Night with The Mimic Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|The Mimic|"
+  },
+  {
+    "name": "Survive a Night with Jackie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Jackie|"
+  },
+  {
+    "name": "Survive a Night with Big Top Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Big Top|"
+  },
+  {
+    "name": "Survive a Night with Captain Cobalt Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Captain Cobalt|"
+  },
+  {
+    "name": "Survive a Night with White Tiger Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|White Tiger|"
+  },
+  {
+    "name": "Survive a Night with Sleepy Moon Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Sleepy Moon|"
+  },
+  {
+    "name": "Survive a Night with Security Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Security|"
+  },
+  {
     "name": "Survive a Night with LolzHax Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
     "requires": "|LolzHax|"
+  },
+  {
+    "name": "Survive a Night with Freddy Frostbear Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Freddy Frostbear|"
+  },
+  {
+    "name": "Survive a Night with Twisted Wolf Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Twisted Wolf|"
+  },
+  {
+    "name": "Survive a Night with Spring-Bonnie? Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Spring-Bonnie?|"
+  },
+  {
+    "name": "Survive a Night with Very Important Pig Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Very Important Pig|"
+  },
+  {
+    "name": "Survive a Night with The Reagent Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|The Reagent|"
+  },
+  {
+    "name": "Survive a Night with Candy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Candy|"
+  },
+  {
+    "name": "Survive a Night with Blank Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Blank|"
+  },
+  {
+    "name": "Survive a Night with Ignited Freddy Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Ignited Freddy|"
+  },
+  {
+    "name": "Survive a Night with Popgoes Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Popgoes|"
+  },
+  {
+    "name": "Survive a Night with Archie Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Archie|"
+  },
+  {
+    "name": "Survive a Night with Doofas Active",
+    "region": "Custom Night",
+    "category": [
+      "Animatronics"
+    ],
+    "requires": "|Doofas|"
   },
   {
     "name": "Survive a Night with Coffee Active",
@@ -899,20 +1227,12 @@
     "requires": "|Sparky|"
   },
   {
-    "name": "Survive a Night with Candy Active",
+    "name": "Survive a Night with Bon Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Candy|"
-  },
-  {
-    "name": "Survive a Night with Popgoes Active",
-    "region": "Custom Night",
-    "category": [
-      "Animatronics"
-    ],
-    "requires": "|Popgoes|"
+    "requires": "|Bon|"
   },
   {
     "name": "Survive a Night with Rodney Active",
@@ -971,38 +1291,6 @@
     "requires": "|Endo|"
   },
   {
-    "name": "Toy Freddy Jumpscare",
-    "region": "Custom Night",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|Toy Freddy|"
-  },
-  {
-    "name": "Toy Bonnie Jumpscare",
-    "region": "Custom Night",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|Toy Bonnie|"
-  },
-  {
-    "name": "Toy Chica Jumpscare",
-    "region": "Custom Night",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|Toy Chica|"
-  },
-  {
-    "name": "Mangle Jumpscare",
-    "region": "Custom Night",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|Mangle|"
-  },
-  {
     "name": "Withered Freddy Jumpscare",
     "region": "Custom Night",
     "category": [
@@ -1035,20 +1323,52 @@
     "requires": "|Withered Foxy|"
   },
   {
+    "name": "Toy Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "Toy Bonnie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Bonnie|"
+  },
+  {
+    "name": "Toy Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Toy Chica|"
+  },
+  {
+    "name": "Mangle Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mangle|"
+  },
+  {
+    "name": "Marionette Jumpscare",
+    "region": "Night 1",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
     "name": "BB Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
     "requires": "{YamlCompare(difficulty = 3)} OR |BB|"
-  },
-  {
-    "name": "Puppet Jumpscare",
-    "region": "Night 1",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": []
   },
   {
     "name": "RWQFSFASXC Jumpscare",
@@ -1091,6 +1411,30 @@
     "requires": "|Nightmare Fredbear|"
   },
   {
+    "name": "Jack-O-Bonnie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jack-O-Bonnie|"
+  },
+  {
+    "name": "Jack-O-Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jack-O-Chica|"
+  },
+  {
+    "name": "Nightmare Mangle Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Nightmare Mangle|"
+  },
+  {
     "name": "Nightmare BB Jumpscare",
     "region": "Custom Night",
     "category": [
@@ -1105,6 +1449,14 @@
       "Jumpscaresanity"
     ],
     "requires": "|Nightmarionne|"
+  },
+  {
+    "name": "Deedee Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Deedee|"
   },
   {
     "name": "Circus Baby Jumpscare",
@@ -1139,12 +1491,20 @@
     "requires": "|Ballora|"
   },
   {
-    "name": "Lefty Jumpscare",
+    "name": "Ennard Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Lefty|"
+    "requires": "|Ennard|"
+  },
+  {
+    "name": "Yenndo Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Yenndo|"
   },
   {
     "name": "Molten Freddy Jumpscare",
@@ -1155,12 +1515,172 @@
     "requires": "|Molten Freddy|"
   },
   {
+    "name": "Scraptrap Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Scraptrap|"
+  },
+  {
     "name": "Scrap Baby Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
     "requires": "|Scrap Baby|"
+  },
+  {
+    "name": "Lefty Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Lefty|"
+  },
+  {
+    "name": "Happy Frog Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Happy Frog|"
+  },
+  {
+    "name": "Pigpatch Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Pigpatch|"
+  },
+  {
+    "name": "Nedd Bear Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Nedd Bear|"
+  },
+  {
+    "name": "Orville Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Orville|"
+  },
+  {
+    "name": "Mr. Hugs Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Mr. Hugs|"
+  },
+  {
+    "name": "Dreadbear Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Dreadbear|"
+  },
+  {
+    "name": "Grimm Foxy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Grimm Foxy|"
+  },
+  {
+    "name": "Glamrock Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Glamrock Freddy|"
+  },
+  {
+    "name": "Roxanne Wolf Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Roxanne Wolf|"
+  },
+  {
+    "name": "Montgomery Gator Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Montgomery Gator|"
+  },
+  {
+    "name": "Glamrock Chica Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Glamrock Chica|"
+  },
+  {
+    "name": "Sun & Moon Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Sun & Moon|"
+  },
+  {
+    "name": "M.X.E.S. Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|M.X.E.S.|"
+  },
+  {
+    "name": "The Mimic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Mimic|"
+  },
+  {
+    "name": "Jackie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Jackie|"
+  },
+  {
+    "name": "Big Top Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Big Top|"
+  },
+  {
+    "name": "Captain Cobalt Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Captain Cobalt|"
+  },
+  {
+    "name": "Security Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Security|"
   },
   {
     "name": "Twisted Wolf Jumpscare",
@@ -1171,12 +1691,68 @@
     "requires": "|Twisted Wolf|"
   },
   {
-    "name": "Dreadbear Jumpscare",
+    "name": "Spring-Bonnie? Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Dreadbear|"
+    "requires": "|Spring-Bonnie?|"
+  },
+  {
+    "name": "Very Important Pig Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Very Important Pig|"
+  },
+  {
+    "name": "The Reagent Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|The Reagent|"
+  },
+  {
+    "name": "Candy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Candy|"
+  },
+  {
+    "name": "Blank Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Blank|"
+  },
+  {
+    "name": "Ignited Freddy Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Ignited Freddy|"
+  },
+  {
+    "name": "Popgoes Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Popgoes|"
+  },
+  {
+    "name": "Archie Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Archie|"
   },
   {
     "name": "Animdude Jumpscare",
@@ -1203,20 +1779,20 @@
     "requires": "|Sparky|"
   },
   {
-    "name": "Candy Jumpscare",
+    "name": "Bon Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Candy|"
+    "requires": "|Bon|"
   },
   {
-    "name": "Popgoes Jumpscare",
+    "name": "Funtime Chica Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Popgoes|"
+    "requires": "|King's Prize|"
   },
   {
     "name": "Felix Jumpscare",
@@ -1225,13 +1801,5 @@
       "Jumpscaresanity"
     ],
     "requires": "|Progressive Felix's Loan:1|"
-  },
-  {
-    "name": "Funtime Chica Jumpscare",
-    "region": "Custom Night",
-    "category": [
-      "Jumpscaresanity"
-    ],
-    "requires": "|King's Prize:1|"
   }
 ]

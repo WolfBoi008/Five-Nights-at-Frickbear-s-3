@@ -101,7 +101,7 @@
             "type": "Toggle",
             "description": [
                 "Toggle Checks for being jumpscared by each animatronic that can jumpscare you.",
-                "(38 Checks)"
+                "(70 Checks)"
             ],
             "default": false
         },

@@ -1,7 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from typing import Any
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -119,6 +119,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    for item in item_pool:
+        # Make the Felix's Loan Upgrade and King's Prize Shop Item Useful instead of Progression if Jumpscaresanity is disabled.
+        if world.options.jumpscaresanity.value == False:
+            if item.name == "Progressive Felix's Loan":
+                item.classification = ItemClassification.useful
+            if item.name == "King's Prize":
+                item.classification = ItemClassification.useful
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
