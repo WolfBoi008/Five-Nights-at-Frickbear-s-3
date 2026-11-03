@@ -5,7 +5,6 @@
 ## Notes
 - This randomizer expects you to finish the game before you play it.
   - This is both because it means you have access to basically everyone in the Custom Night and also so you can experience the game for yourself before you go in blindly during a randomizer.
-- Due to this game's recent release (and requiring multiple playthroughs to see all the game has to offer), this will likely be updated over time as more is uncovered, rather than only being a single version with a few patches. Have patience!
 ## Goal(s)
 - Complete Specific Ending (chosen by Player)
 - Complete Custom Night Challenges (NOT YET IMPLEMENTED)
