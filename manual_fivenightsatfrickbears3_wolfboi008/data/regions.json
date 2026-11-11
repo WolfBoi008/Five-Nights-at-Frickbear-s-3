@@ -69,8 +69,7 @@
   },
   "Night 6": {
     "connects_to": [],
-    "requires": "({YamlCompare(goal = 0)}) OR ({YamlCompare(goal = 1)}) OR ({YamlCompare(goal = 3)}) OR ({YamlCompare(goal = 4)}) OR ({YamlCompare(difficulty = 0)} AND |@Circus Baby's Entertainment & Rentals Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Circus Baby's Entertainment & Rentals Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Circus Baby's Entertainment & Rentals Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Circus Baby's Entertainment & Rentals Animatronics:4|) AND {YamlCompare(goal = 2)})"
-  },
+    "requires": "(({YamlCompare(difficulty = 0)} AND |@Circus Baby's Entertainment & Rentals Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Circus Baby's Entertainment & Rentals Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Circus Baby's Entertainment & Rentals Animatronics:3|) OR ({YamlCompare(difficulty = 3)} AND |@Circus Baby's Entertainment & Rentals Animatronics:4|) AND {YamlCompare(goal = 2)}) OR {YamlCompare(goal = 0)} OR {YamlCompare(goal = 1)} OR {YamlCompare(goal = 3)} OR {YamlCompare(goal = 4)}"  },
   "Custom Night": {
     "starting": true,
     "connects_to": [],
