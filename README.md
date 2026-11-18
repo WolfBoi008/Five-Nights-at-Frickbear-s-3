@@ -9,8 +9,6 @@
 - Complete Specific Ending (chosen by Player)
 - Complete Custom Night Challenges (NOT YET IMPLEMENTED)
   - Might be able to make it a number of them, but may have to look into it.
-- Complete Custom Night Max Mode (NOT YET IMPLEMENTED)
-  - If you wish to go down this path, good luck.
 ## Items
 - Mendo Shop Items (Progression/Useful)
 - Upgrade Cadet Items (Progression/Useful)
@@ -20,16 +18,16 @@
 ## Checks
 - Completing Nights
 - Inspecting Animatronics (aka talking to them and considering salvaging them)
+- Completing Arcade Machines at Salvage Locations
+- Viewing Animatronics' Character Gallery Entries
 - Collecting Key Items
-- Upgrade Cadet Stories
 - Completing a Night with X Animatronic Active
 - Inspecting the Freddy Poster in Fazbear's Frights (because yes)
-- Completing Endings
-  - Some of these are removed depending on the Player's Goal.
 ## Options
 - Difficulty: Choose the difficulty of your run. Impacts how hard the game is, primarily by requiring you to salvage an extra animatronic per difficulty above Easy.
   - Difficulty options include Easy, Normal, Hard, and Lunatic.
-- Custom Night: Toggle Checks related to the Custom Night. (NOT YET IMPLEMENTED)
-  - Can only be disabled if you don’t have a Custom Night goal.
+- Custom Night: Toggle Checks related to the Custom Night.
+  - Can only be disabled if you don’t have a Custom Night Goal, though Custom Night-related Goals haven't been implemented yet.
 - Jumpscaresanity: Toggle Checks for being jumpscared by each animatronic that can jumpscare you.
 - Achievements: Toggle Checks for completing Achievements.
+- Upgrade Cadet Stories: Toggle Checks for listening to each of Upgrade Cadet's stories.
