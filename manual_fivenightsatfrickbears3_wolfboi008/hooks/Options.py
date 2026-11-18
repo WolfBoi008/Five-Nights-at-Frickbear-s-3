@@ -48,6 +48,8 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     options.type_hints["salvage_5"].visibility = Visibility.none
     options.type_hints["evil"].visibility = Visibility.none
     options.type_hints["good"].visibility = Visibility.none
+    options.type_hints["standard_presets"].visibility = Visibility.none
+    options.type_hints["special_presets"].visibility = Visibility.none
     pass
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)

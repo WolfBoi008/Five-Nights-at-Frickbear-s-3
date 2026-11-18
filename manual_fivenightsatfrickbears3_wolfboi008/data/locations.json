@@ -48,7 +48,7 @@
     "requires": []
   },
   {
-    "name": "Inspect Endo",
+    "name": "Inspect Endoskeleton",
     "region": "Salvage 1",
     "category": [
       "Freddy Fazbear's Pizza"
@@ -446,6 +446,24 @@
     "requires": []
   },
   {
+    "name": "Collect Circus Sorter Arcade Board",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect Circus Sorter Present",
+    "region": "Salvage 5",
+    "category": [
+      "Circus Baby's Entertainment & Rentals",
+      "Salvage 5"
+    ],
+    "requires": []
+  },
+  {
     "name": "Inspect Lolbit",
     "region": "Salvage 5",
     "category": [
@@ -585,12 +603,12 @@
     "requires": "|Golden Freddy|"
   },
   {
-    "name": "Survive a Night with Endo Active",
+    "name": "Survive a Night with Endoskeleton Active",
     "region": "Custom Night",
     "category": [
       "Animatronics"
     ],
-    "requires": "|Endo|"
+    "requires": "|Endoskeleton|"
   },
   {
     "name": "Survive a Night with Withered Freddy Active",
@@ -1243,6 +1261,702 @@
     "requires": "|Rodney|"
   },
   {
+    "name": "View Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": []
+  },
+  {
+    "name": "View Bonnie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": []
+  },
+  {
+    "name": "View Chica Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": []
+  },
+  {
+    "name": "View Foxy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": []
+  },
+  {
+    "name": "View Golden Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Golden Freddy|"
+  },
+  {
+    "name": "View Endoskeleton Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Endoskeleton|"
+  },
+  {
+    "name": "View Withered Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Withered Freddy|"
+  },
+  {
+    "name": "View Withered Bonnie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Withered Bonnie|"
+  },
+  {
+    "name": "View Withered Chica Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Withered Chica|"
+  },
+  {
+    "name": "View Withered Foxy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Withered Foxy|"
+  },
+  {
+    "name": "View Toy Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "View Toy Bonnie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Toy Bonnie|"
+  },
+  {
+    "name": "View Toy Chica Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Toy Chica|"
+  },
+  {
+    "name": "View Mangle Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Mangle|"
+  },
+  {
+    "name": "View Marionette Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": []
+  },
+  {
+    "name": "View BB Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "((({YamlCompare(difficulty = 0)} AND |@Freddy Fazbear's Pizza Animatronics:1|) OR ({YamlCompare(difficulty = 1)} AND |@Freddy Fazbear's Pizza Animatronics:2|) OR ({YamlCompare(difficulty = 2)} AND |@Freddy Fazbear's Pizza Animatronics:3|) AND ({YamlCompare(goal = 0)} OR ({YamlCompare(goal = 1)} AND |Hatchet| AND |Springtrap|) OR {YamlCompare(goal = 2)} OR ({YamlCompare(goal = 3)} AND |Progressive Present:1| AND |Freddy Mask|) OR ({YamlCompare(goal = 4)} AND |Hatchet| AND |Springtrap| AND |Progressive Present:1| AND |Freddy Mask|))) OR {YamlCompare(difficulty = 3)} OR |BB|"
+  },
+  {
+    "name": "View JJ Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|JJ|"
+  },
+  {
+    "name": "View Shadow Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Shadow Freddy|"
+  },
+  {
+    "name": "View RWQFSFASXC Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|RWQFSFASXC|"
+  },
+  {
+    "name": "View The Phantoms Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|The Phantoms|"
+  },
+  {
+    "name": "View Springtrap Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Springtrap|"
+  },
+  {
+    "name": "View Plushtrap Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Plushtrap|"
+  },
+  {
+    "name": "View Nightmare Fredbear Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Nightmare Fredbear|"
+  },
+  {
+    "name": "View Jack-O-Bonnie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Jack-O-Bonnie|"
+  },
+  {
+    "name": "View Jack-O-Chica Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Jack-O-Chica|"
+  },
+  {
+    "name": "View Nightmare Mangle Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Nightmare Mangle|"
+  },
+  {
+    "name": "View Nightmare BB Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Nightmare BB|"
+  },
+  {
+    "name": "View Nightmarionne Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Nightmarionne|"
+  },
+  {
+    "name": "View Deedee Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Deedee|"
+  },
+  {
+    "name": "View Chica's Magic Rainbow Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Chica's Magic Rainbow|"
+  },
+  {
+    "name": "View Circus Baby Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Circus Baby|"
+  },
+  {
+    "name": "View Funtime Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Funtime Freddy|"
+  },
+  {
+    "name": "View Funtime Foxy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Funtime Foxy|"
+  },
+  {
+    "name": "View Ballora Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Ballora|"
+  },
+  {
+    "name": "View Ennard Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Ennard|"
+  },
+  {
+    "name": "View Vlad & Clara Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Vlad & Clara|"
+  },
+  {
+    "name": "View Yenndo Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Yenndo|"
+  },
+  {
+    "name": "View Bonnet Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Bonnet|"
+  },
+  {
+    "name": "View Lolbit Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Lolbit|"
+  },
+  {
+    "name": "View Electrobab Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Electrobab|"
+  },
+  {
+    "name": "View Helpy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Helpy|"
+  },
+  {
+    "name": "View Molten Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Molten Freddy|"
+  },
+  {
+    "name": "View Scraptrap Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Scraptrap|"
+  },
+  {
+    "name": "View Scrap Baby Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Scrap Baby|"
+  },
+  {
+    "name": "View Lefty Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Lefty|"
+  },
+  {
+    "name": "View Happy Frog Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Happy Frog|"
+  },
+  {
+    "name": "View Mr. Hippo Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Mr. Hippo|"
+  },
+  {
+    "name": "View Pigpatch Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Pigpatch|"
+  },
+  {
+    "name": "View Nedd Bear Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Nedd Bear|"
+  },
+  {
+    "name": "View Orville Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Orville|"
+  },
+  {
+    "name": "View Trash Gang Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Trash Gang|"
+  },
+  {
+    "name": "View Mr. Hugs Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Mr. Hugs|"
+  },
+  {
+    "name": "View Music Man Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Music Man|"
+  },
+  {
+    "name": "View Malhare Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Malhare|"
+  },
+  {
+    "name": "View Dreadbear Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Dreadbear|"
+  },
+  {
+    "name": "View Grimm Foxy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Grimm Foxy|"
+  },
+  {
+    "name": "View Glamrock Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Glamrock Freddy|"
+  },
+  {
+    "name": "View Roxanne Wolf Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Roxanne Wolf|"
+  },
+  {
+    "name": "View Montgomery Gator Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Montgomery Gator|"
+  },
+  {
+    "name": "View Glamrock Chica Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Glamrock Chica|"
+  },
+  {
+    "name": "View Sun & Moon Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Sun & Moon|"
+  },
+  {
+    "name": "View M.X.E.S. Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|M.X.E.S.|"
+  },
+  {
+    "name": "View The Mimic Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|The Mimic|"
+  },
+  {
+    "name": "View Jackie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Jackie|"
+  },
+  {
+    "name": "View Big Top Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Big Top|"
+  },
+  {
+    "name": "View Captain Cobalt Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Captain Cobalt|"
+  },
+  {
+    "name": "View White Tiger Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|White Tiger|"
+  },
+  {
+    "name": "View Sleepy Moon Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Sleepy Moon|"
+  },
+  {
+    "name": "View Security Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Security|"
+  },
+  {
+    "name": "View LolzHax Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|LolzHax|"
+  },
+  {
+    "name": "View Freddy Frostbear Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Freddy Frostbear|"
+  },
+  {
+    "name": "View Twisted Wolf Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Twisted Wolf|"
+  },
+  {
+    "name": "View Spring-Bonnie? Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Spring-Bonnie?|"
+  },
+  {
+    "name": "View Very Important Pig Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Very Important Pig|"
+  },
+  {
+    "name": "View The Reagent Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|The Reagent|"
+  },
+  {
+    "name": "View Candy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Candy|"
+  },
+  {
+    "name": "View Blank Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Blank|"
+  },
+  {
+    "name": "View Ignited Freddy Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Ignited Freddy|"
+  },
+  {
+    "name": "View Popgoes Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Popgoes|"
+  },
+  {
+    "name": "View Archie Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Archie|"
+  },
+  {
+    "name": "View Doofas Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Doofas|"
+  },
+  {
+    "name": "View Coffee Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Coffee|"
+  },
+  {
+    "name": "View Animdude Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Animdude|"
+  },
+  {
+    "name": "View Chipper Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Chipper|"
+  },
+  {
+    "name": "View Sparky Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Sparky|"
+  },
+  {
+    "name": "View Bon Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Bon|"
+  },
+  {
+    "name": "View Rodney Gallery Entry",
+    "region": "Character Gallery",
+    "category": [
+      "Character Gallery"
+    ],
+    "requires": "|Rodney|"
+  },
+  {
     "name": "Freddy Jumpscare",
     "region": "Night 1",
     "category": [
@@ -1283,12 +1997,12 @@
     "requires": "|Golden Freddy|"
   },
   {
-    "name": "Endo Jumpscare",
+    "name": "Endoskeleton Jumpscare",
     "region": "Custom Night",
     "category": [
       "Jumpscaresanity"
     ],
-    "requires": "|Endo|"
+    "requires": "|Endoskeleton|"
   },
   {
     "name": "Withered Freddy Jumpscare",
@@ -1801,5 +2515,261 @@
       "Jumpscaresanity"
     ],
     "requires": "|Progressive Felix's Loan:1|"
+  },
+  {
+    "name": "Era of '87",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Golden Freddy| AND |Endoskeleton| AND |Withered Freddy| AND |Withered Bonnie| AND |Withered Chica| AND |Withered Foxy| AND |Toy Freddy| AND |Toy Bonnie| AND |Toy Chica| AND |Mangle| AND |Marionette| AND |BB| AND |JJ| AND |Shadow Freddy| AND |RWQFSFASXC|"
+  },
+  {
+    "name": "Rabbit Season",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Bonnie| AND |Withered Bonnie| AND |Toy Bonnie| AND |RWQFSFASXC| AND |Springtrap| AND |Plushtrap| AND |Malhare|"
+  },
+  {
+    "name": "Rabbit Season 2",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Bonnie| AND |Withered Bonnie| AND |Toy Bonnie| AND |RWQFSFASXC| AND |Springtrap| AND |Plushtrap| AND |Jack-O-Bonnie| AND |Malhare| AND |M.X.E.S.| AND |Spring-Bonnie?| AND |Bon|"
+  },
+  {
+    "name": "Window Watchers",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Endoskeleton| AND |Withered Freddy| AND |Withered Foxy| AND |Marionette| AND |Plushtrap| AND |Dreadbear| AND |Candy|"
+  },
+  {
+    "name": "Window Watchers 2",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Endoskeleton| AND |Withered Freddy| AND |Withered Foxy| AND |Plushtrap| AND |Jack-O-Chica| AND |Deedee| AND |Mr. Hugs| AND |Dreadbear| AND |Grimm Foxy| AND |Roxanne Wolf| AND |Montgomery Gator| AND |Glamrock Chica| AND |Ignited Freddy|"
+  },
+  {
+    "name": "Ladies' Night",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Chica| AND |Withered Chica| AND |Toy Chica| AND |Mangle| AND |Marionette| AND |JJ| AND |The Phantoms| AND |Circus Baby| AND |Funtime Foxy| AND |Ballora| AND |Lolbit| AND |Molten Freddy| AND |Scrap Baby| AND |Lefty|"
+  },
+  {
+    "name": "Ladies' Night 2",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Chica| AND |Withered Chica| AND |Toy Chica| AND |JJ| AND |Jack-O-Chica| AND |Deedee| AND |Chica's Magic Rainbow| AND |Circus Baby| AND |Ballora| AND |Bonnet| AND |Scrap Baby| AND |Happy Frog| AND |Roxanne Wolf| AND |Glamrock Chica| AND |Jackie|"
+  },
+  {
+    "name": "Back Attack",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Yenndo| AND |Scraptrap| AND |Happy Frog| AND |Grimm Foxy| AND |Glamrock Chica| AND |Sun & Moon| AND |The Mimic| AND |Spring-Bonnie?| AND |Blank| AND |Ignited Freddy| AND |Archie| AND |Bon|"
+  },
+  {
+    "name": "Old Friends",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Freddy| AND |Bonnie| AND |Chica| AND |Foxy| AND |Golden Freddy| AND |Endoskeleton| AND |Withered Bonnie| AND |Withered Chica| AND |Mangle| AND |Marionette| AND |BB| AND |RWQFSFASXC| AND |Nightmare Fredbear| AND |Nightmarionne|"
+  },
+  {
+    "name": "New Friends",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|JJ| AND |Shadow Freddy| AND |Plushtrap| AND |Circus Baby| AND |Funtime Freddy| AND |Funtime Foxy| AND |Ballora| AND |Helpy| AND |Music Man| AND |Dreadbear| AND |Candy| AND |Popgoes| AND |Coffee| AND |Animdude| AND |Chipper| AND |Sparky|"
+  },
+  {
+    "name": "Even a Bear!",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Freddy| AND |Golden Freddy| AND |Withered Freddy| AND |Toy Freddy| AND |Shadow Freddy| AND |The Phantoms| AND |Nightmare Fredbear| AND |Funtime Freddy| AND |Helpy| AND |Molten Freddy| AND |Lefty| AND |Dreadbear|"
+  },
+  {
+    "name": "The Second Coming",
+    "region": "Custom Night",
+    "category": [
+      "Standard Presets"
+    ],
+    "requires": "|Withered Freddy| AND |Withered Foxy| AND |Toy Freddy| AND |Toy Bonnie| AND |Toy Chica| AND |The Phantoms| AND |Springtrap| AND |Nightmare BB| AND |Lolbit| AND |Molten Freddy| AND |Scrap Baby| AND |Lefty| AND |Mr. Hippo| AND |Malhare| AND |LolzHax| AND |Twisted Wolf| AND |Rodney|"
+  },
+  {
+    "name": "Withered Without You",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Withered Freddy| AND |Withered Bonnie| AND |Withered Chica| AND |Withered Foxy| AND |Marionette| AND |Ignited Freddy|"
+  },
+  {
+    "name": "Blind Mode",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Freddy| AND |Bonnie| AND |Chica| AND |Foxy| AND |Withered Chica| AND |Toy Bonnie| AND |BB| AND |Shadow Freddy| AND |Nightmarionne| AND |Molten Freddy| AND |Scrap Baby| AND |Mr. Hippo| AND |Music Man| AND |Sparky|"
+  },
+  {
+    "name": "You Bring a Light?",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Endoskeleton| AND |Withered Foxy| AND |Shadow Freddy| AND |RWQFSFASXC| AND |Jack-O-Bonnie| AND |Nightmarionne| AND |Grimm Foxy| AND |Montgomery Gator| AND |Captain Cobalt| AND |Ignited Freddy|"
+  },
+  {
+    "name": "Deafening",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Freddy| AND |Toy Chica| AND |BB| AND |JJ| AND |RWQFSFASXC| AND |Springtrap| AND |Scrap Baby| AND |Music Man| AND |Dreadbear|"
+  },
+  {
+    "name": "What's On TV?",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Freddy| AND |Bonnie| AND |Chica| AND |Foxy| AND |Funtime Freddy| AND |Vlad & Clara| AND |The Reagent|"
+  },
+  {
+    "name": "Watchful Eye",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Freddy| AND |Bonnie| AND |Chica| AND |Foxy| AND |Toy Freddy| AND |Marionette| AND |Springtrap| AND |Nightmare BB| AND |Circus Baby| AND |Funtime Freddy| AND |Funtime Foxy| AND |Ballora| AND |Lolbit| AND |Scrap Baby| AND |Lefty| AND |Malhare| AND |Popgoes| AND |Sparky|"
+  },
+  {
+    "name": "Gaming Hard?",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Toy Freddy|"
+  },
+  {
+    "name": "Embodiment of Scarlet Rainbow",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Chica's Magic Rainbow| AND |Doofas|"
+  },
+  {
+    "name": "Paddleball Panic",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Foxy| AND |Shadow Freddy| AND |Helpy| AND |Coffee|"
+  },
+  {
+    "name": "Paddleball Panic X",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Foxy| AND |Shadow Freddy| AND |Chica's Magic Rainbow| AND |Doofas| AND |Coffee|"
+  },
+  {
+    "name": "The General's Challenge",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Animdude|"
+  },
+  {
+    "name": "Chipper's Revenge",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Lolbit| AND |Chipper|"
+  },
+  {
+    "name": "Blank's Art School",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Blank|"
+  },
+  {
+    "name": "Token Trouble",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Deedee| AND |Circus Baby| AND |Lolbit| AND |Glamrock Chica| AND |Sleepy Moon| AND |Chipper|"
+  },
+  {
+    "name": "Camera Whack-a-Mole",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Marionette| AND |Springtrap| AND |Ballora| AND |Scrap Baby| AND |Malhare| AND |M.X.E.S.| AND |Popgoes| AND |Sparky|"
+  },
+  {
+    "name": "Are You Smarter Than a Frog?",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Happy Frog|"
+  },
+  {
+    "name": "Archie Armageddon",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Archie|"
+  },
+  {
+    "name": "Archie Armageddon 2",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Archie|"
+  },
+  {
+    "name": "Minute 2 Win It",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Toy Freddy| AND |Shadow Freddy| AND |Circus Baby| AND |Ballora| AND |Coffee| AND |Animdude| AND |Chipper|"
+  },
+  {
+    "name": "The LolzHax Shuffle",
+    "region": "Custom Night",
+    "category": [
+      "Special Presets"
+    ],
+    "requires": "|Marionette| AND |LolzHax|"
   }
 ]

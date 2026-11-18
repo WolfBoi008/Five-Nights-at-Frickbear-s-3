@@ -97,6 +97,26 @@
             "allow_custom_value": false
         },
 
+        "custom_night_challenges": {
+            "type": "Choice",
+            "description": [
+                "Toggle Checks for completing Custom Night's various Challenges. You can choose one of the following:",
+                "Disabled: Disables all Custom Night Challenge Checks.",
+                "Standard Only: Enables only the 12 Standard Challenges as Checks.",
+                "Special Only: Enables only the 20 Special Challenges as Checks.",
+                "Disabled: Enables both sets of Challenges.",
+                "If you want to narrow down which ones you want to do even further, I would recommend making use of priority and/or exclude locations."
+            ],
+            "values": {
+                "disabled": 0,
+                "standard_only": 1,
+                "special_only": 2,
+                "both": 3
+            },
+            "default": 0,
+            "allow_custom_value": false
+        },
+
         "jumpscaresanity": {
             "type": "Toggle",
             "description": [

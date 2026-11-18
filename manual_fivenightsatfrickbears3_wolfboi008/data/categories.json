@@ -24,6 +24,12 @@
     "Evil Route Animatronics": {
         "hidden": true
     },
+    "Standard Presets": {
+        "yaml_option": ["standard_presets"]
+    },
+    "Special Presets": {
+        "yaml_option": ["special_presets"]
+    },
     "Jumpscaresanity": {
         "yaml_option": ["jumpscaresanity"]
     },

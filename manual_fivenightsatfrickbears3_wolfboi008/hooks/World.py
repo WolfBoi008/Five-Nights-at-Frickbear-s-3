@@ -63,6 +63,16 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     # If your Goal is Good Ending, disable Evil Ending Items and Checks.
     if world.options.goal.value == 3:
         world.options.evil.value = False
+    # If you set Custom Night Challenges to Disabled, disable both Standard and Special Custom Presets.
+    if world.options.custom_night_challenges.value == 0:
+        world.options.standard_presets.value = False
+        world.options.special_presets.value = False
+    # If you set Custom Night Challenges to Standard Only, disable the Special Custom Presets.
+    if world.options.custom_night_challenges.value == 1:
+        world.options.special_presets.value = False
+    # If you set Custom Night Challenges to Special Only, disable the Standard Custom Presets.
+    if world.options.custom_night_challenges.value == 2:
+        world.options.standard_presets.value = False
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
